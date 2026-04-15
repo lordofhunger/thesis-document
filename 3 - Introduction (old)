@@ -1,0 +1,31 @@
+In the world of today, everyone will have to do presentations at some point of their life, whether
+for a simple book presentation in primary school or maybe a quarterly report in your firm, or
+be it giving your third lecture of the day. Seeing as presentations are a common occurrence in
+the lives of many people, one would imagine that the way to give these presentations is very
+optimised, but when starting this thesis, it seemed to us that this was not the case, seeing as
+through interactions with lecturers and through courses on presentations I have heard time and
+again that interacting with your audience is important, as well as using gestures, or many other
+presenting techniques, but when we look at the presentations we see most often in our day to
+day lives it seems that many presenters are simply chained to a desk or podium, because they
+have to use the arrow keys on the laptop to control their slides.
+This then brought us to a few questions, the first of which being of course whether this is in fact
+a problem that presenters have, and the second of which being whether we could create a system
+to fix this problem in the case that it was one. To solve the first question, we started by doing a
+survey, asking people questions like how often they presented, what presentation tools they used
+and whether they have had any issues from using these. From this survey we then noted that
+PowerPoint still seems to be the leading presentation software and that most people simply use
+their laptop and nothing else to present. One thing to note however is that while many people
+claim that they have no issues with the way they present currently, these same people will then
+also say that they would be very open to have a tool that offers them extra functionality, with
+them giving their own suggestions as to what needs they have that their current setup does not
+meet as well as they would like.
+From these needs and current existing related work, we then started by designing our prototypes,
+followed by evaluating them, both by going through iterations ourselves and brainstorming issues
+that could still be solved, as well as asking fellow students what they thought of them and what
+suggestions they had for making it better or more usable. Once a rigid prototype was established,
+we started working on making this prototype a reality, and during the implementation phase,
+other evolutions of the prototype followed, both through finding flaws and through finding new
+ideas that could still be added.
+After finishing this prototype, we did a new survey as well as a user study to find out whether
+our implementation is sound and usable, whether it helps with presenting, and whether or not
+users feel like there are still things that could be improved.
